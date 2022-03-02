@@ -4,8 +4,8 @@ A simple Go-IDE with syntax-highlighting and auto-completion.
 ## Controls and Color-Theme
 ### Standard:
 ```
-auto-completion: right control
-color-theme: Monokai
+auto-completion:  Right-Control
+color-theme:      Monokai
 ```
 ### Personalize:
 ```
