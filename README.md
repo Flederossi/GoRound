@@ -2,4 +2,4 @@
 A simple Go-IDE with syntax-highlighting and auto-completion.
 
 # Screenshot
-![alt text](https://github.com/Flederossi/GoRound/blob/main/img/Screen.png)
+![alt text](https://github.com/Flederossi/GoRound/blob/main/Screen.png)
